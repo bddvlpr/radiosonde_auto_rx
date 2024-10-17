@@ -22,6 +22,9 @@ venv
 *.autosave
 .scannerwork
 
+# Nix
+/result
+
 # Custom config file
 auto_rx/station.cfg
 auto_rx/log/
